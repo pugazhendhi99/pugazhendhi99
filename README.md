@@ -13,7 +13,7 @@
 const Pugazh = {
   role: "Software Engineer",
   focus: "Full-stack + AI Integration",
-  code: ["TypeScript", "JavaScript", "Python"],
+  code: ["TypeScript", "JavaScript"],
   frameworks: ["Next.js", "React", "Angular", "Node.js"],
   tools: ["Tailwind CSS", "LangChain", "Redux", "Prisma", "PostgreSQL"],
   goals: "Build AI-powered dev tools and OTT apps with production-ready design",
